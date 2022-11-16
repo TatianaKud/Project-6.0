@@ -14,4 +14,4 @@
 
 **Ссылка на сайт:**
 
-https://tatianakud.github.io/Work-4.0/
+https://tatianakud.github.io/Project-6.0/
